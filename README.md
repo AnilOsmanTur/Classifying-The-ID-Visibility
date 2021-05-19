@@ -18,17 +18,20 @@ A CSV file mapping each challenge image with its correct label.
  - **LABEL**: The label of each image, which can be one of these values: FULL_VISIBILITY, PARTIAL_VISIBILITY or NO_VISIBILITY. 
 
 
-## Dependencies
 
- - [python 3](https://www.python.org)
- - [pandas](https://pandas.pydata.org/)
- - [opencv](https://opencv.org/)
- - [numpy](https://numpy.org/)
- - [pytorch](https://pytorch.org/)
- - [matplotlib](https://matplotlib.org/)
- - [seaborn](https://seaborn.pydata.org/)
- - [sklearn](https://scikit-learn.org/stable/)
- - [jupyter notebook](https://jupyter.org/)
+## Requirements
+Code is written with python 3 and to use the code, you need to first install the following python packages:
+
+```Shell
+pip install notebook
+pip install numpy
+pip install pandas
+pip install opencv-python
+pip install pytorch
+pip install matplotlib
+pip install seaborn
+```
+
  
 ## Run Instructions
 
@@ -43,10 +46,10 @@ All the codes are in the code folder. In it with the help of main.py training an
 
 All the notebooks are located in notebook folder there are 4 different notebooks;
 
- - [1. Discovering the data](notebooks/1. Discovering the data.html) I inspect the data
- - [2. Input generation](notebooks/2. Input generation.html) Basic imput loading dataset generation part
- - [3. Model Selection](notebooks/3. Model Selection.html) How did I choose the model?
- - [4. Training splits and Training data](notebooks/4. Training splits and Training data.html) How did I generate the training splits? and Data augmentation
+ - [1. Discovering the data](notebooks/1. Discovering the data.ipynb) I inspect the data
+ - [2. Input generation](notebooks/2. Input generation.ipynb) Basic imput loading dataset generation part
+ - [3. Model Selection](notebooks/3. Model Selection.ipynb) How did I choose the model?
+ - [4. Training splits and Training data](notebooks/4. Training splits and Training data.ipynb) How did I generate the training splits? and Data augmentation
 
 Some of the codes in the code folder are differ from the notebook versions because of keeping the notebooks clearer.
 
