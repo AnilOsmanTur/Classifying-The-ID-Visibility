@@ -46,10 +46,10 @@ All the codes are in the code folder. In it with the help of main.py training an
 
 All the notebooks are located in notebook folder there are 4 different notebooks;
 
- - [1. Discovering the data](notebooks/"1. Discovering the+data.ipynb") I inspect the data
- - [2. Input generation](notebooks/"2. Input generation.ipynb") Basic imput loading dataset generation part
- - [3. Model Selection](notebooks/"3. Model Selection.ipynb") How did I choose the model?
- - [4. Training splits and Training data](notebooks/"4. Training splits and Training data.ipynb") How did I generate the training splits? and Data augmentation
+ - [1. Discovering the data](notebooks/1.%20Discovering%20the%20data.ipynb) I inspect the data
+ - [2. Input generation](notebooks/2.%20Input%20generation.ipynb) Basic imput loading dataset generation part
+ - [3. Model Selection](notebooks/3.%20Model%20Selection.ipynb) How did I choose the model?
+ - [4. Training splits and Training data](notebooks/4.%20Training%20splits%20and%20Training%20data.ipynb) How did I generate the training splits? and Data augmentation
 
 Some of the codes in the code folder are differ from the notebook versions because of keeping the notebooks clearer.
 
