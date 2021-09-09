@@ -62,7 +62,7 @@ In training, f1 score and cross entropy loss are used for determining how good t
 
 ***Resulted confusion matrix***
 
-![confusion matrix](misc/confusion_matrix.png)
+![confusion matrix](misc/confusion_matrix.png =250x)
 
 ## Future Work
 
